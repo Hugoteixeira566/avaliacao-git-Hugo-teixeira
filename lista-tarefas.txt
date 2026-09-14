@@ -1,4 +1,3 @@
-criar pagina sobre min
-criar pagina de login
-criar pagina de contactos
-criar pagina de codigo
+Criar página sobre mim
+Criar página de login
+ Criar página Home
