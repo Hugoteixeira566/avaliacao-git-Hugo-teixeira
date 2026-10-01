@@ -76,6 +76,6 @@ O ficheiro de configuração utilizado no projeto chama-se `config.txt`.
 
 ## Autores
 
-Projeto desenvolvido por **Hugo Filipe** no âmbito da formação.
+Projeto desenvolvido por **Hugo Teixeira** no âmbito da formação.
 
 Este projeto tem como objetivo aplicar os principais elementos da linguagem *Markdown* e melhorar os conhecimentos de documentação de projetos.
