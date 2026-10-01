@@ -6,7 +6,7 @@ O objetivo é permitir consultar, adicionar e organizar dados de forma simples.
 O projeto foi desenvolvido como exercício de aprendizagem de programação e bases de dados.
 
 <p align="center">
-  <img src="SF_Leiria_foto_sfpl.png" alt="iefpmarinhagrande" width="400">
+  <img src="SF_Leiria_foto_sfpl.jpg" alt="iefpmarinhagrande" width="400">
 </p>
 
 ## Tecnologias
