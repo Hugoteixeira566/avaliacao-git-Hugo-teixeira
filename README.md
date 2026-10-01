@@ -4,7 +4,6 @@ Este projeto consiste na criação de uma pequena aplicação para **gerir infor
 O objetivo é permitir consultar, adicionar e organizar dados de forma simples.  
 O projeto foi desenvolvido como exercício de aprendizagem de programação e bases de dados.
 
-![Logótipo do projeto](https://via.placeholder.com/150)
 
 ## Tecnologias
 
